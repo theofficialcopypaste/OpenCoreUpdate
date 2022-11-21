@@ -1,7 +1,8 @@
 # OpenCoreUpdate
-Method to update OpenCore EFI
 
-## Using [rusty-bits](https://github.com/rusty-bits) octool
+## Method 1:
+
+### Using [rusty-bits](https://github.com/rusty-bits) octool
 
 A small OpenCore project from [rusty-bits](https://github.com/rusty-bits) which directly update EFI from official branch [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) repository. Why [octool](https://github.com/rusty-bits/octool)?
 
@@ -9,7 +10,7 @@ A small OpenCore project from [rusty-bits](https://github.com/rusty-bits) which 
 * Simple
 * Easy to handle
 
-### Information
+#### Information
 
 Help
 
