@@ -48,6 +48,6 @@
 
 #### C. Alternative
 
-| **Dev**                                                 | **Download**                                                                  | **Details** |
-| ------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------- |
-| [CloverHackyColor](https://github.com/CloverHackyColor) | [Release](https://github.com/CloverHackyColor/FakeSMC3_with_plugins/releases) | FakeSMCV3   |
+| **Dev**                                                 | **Download**                                                                  | **Details**  |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------ |
+| [CloverHackyColor](https://github.com/CloverHackyColor) | [Release](https://github.com/CloverHackyColor/FakeSMC3_with_plugins/releases) | FakeSMC v3   |
