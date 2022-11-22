@@ -135,7 +135,7 @@ brew install python-tk@3.10
 
 > **Note**: An alternative SMC emulation kernel extension.
 
-#### D. AppleALC Slimmed (Specific)
+#### D. AppleALC Slimmed
 
 | **Dev**                                         | **Download**                                                           | **Details**         |
 | ----------------------------------------------- | ---------------------------------------------------------------------- | ------------------- |
