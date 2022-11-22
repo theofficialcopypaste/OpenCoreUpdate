@@ -5,6 +5,8 @@
 * [Apps and Tools](https://github.com/theofficialcopypaste/OpenCoreUpdate#apps--tools)
 * [Kexts](https://github.com/theofficialcopypaste/OpenCoreUpdate#kexts)
 
+---
+
 ### Apps / Tools
 
 #### A. Extensible Firmware Interface (EFI)
@@ -17,6 +19,8 @@
 
 ![OpenCore](https://user-images.githubusercontent.com/72515939/203320371-181058ca-3272-4ea0-a190-f11ef1ac0974.png)
 
+---
+
 #### B. Updater
 
 | **Dev**                                     | **Download**                                                   | **Details**                                                                                   |
@@ -27,6 +31,8 @@
 * **OCAuxiliary**
 
 ![ACAT](https://user-images.githubusercontent.com/72515939/203323165-e1e06101-d545-4f19-b0c5-9c68a6db85f7.png)
+
+---
 
 #### C. Plist editing
 
@@ -46,6 +52,8 @@
 brew install python-tk@3.10 
 ```
 
+---
+
 #### D. Compare (Optional).
 
 | **Dev**                                 | **Download**                                                                | **Details**                                                                                       |
@@ -57,6 +65,8 @@ brew install python-tk@3.10
 * **Araxis Merge**
 
 ![Araxis](https://user-images.githubusercontent.com/72515939/203319617-9db8e6f6-95a1-4266-b910-78fbb398b4bc.png)
+
+---
 
 ### Kexts
 
@@ -72,6 +82,8 @@ brew install python-tk@3.10
 
 > **Note**: Most recent and updated version. 
 
+---
+
 #### B. Legacy
 
 | **Dev**                                         | **Download**                                                  | **Details**              |
@@ -83,6 +95,8 @@ brew install python-tk@3.10
 ![Legacy](https://user-images.githubusercontent.com/72515939/203321674-e7b5c057-b607-430d-8b94-0aa56991e058.png)
 
 > **Note**: 32bit supported
+
+---
 
 #### C. Alternative
 
