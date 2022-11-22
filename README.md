@@ -19,6 +19,10 @@
 | [ic005k](https://github.com/ic005k)         | [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) | GUI-based configurator for editing config.plist files for Acidanthera's OpenCore Boot Manager |
 | [rusty-bits](https://github.com/rusty-bits) | [octool](https://github.com/rusty-bits/octool)                 | An OpenCore terminal based EFI updater build from [Rust](https://www.rust-lang.org/)          |
 
+* **OCAuxiliary**
+
+![ACAT](https://user-images.githubusercontent.com/72515939/203323165-e1e06101-d545-4f19-b0c5-9c68a6db85f7.png)
+
 #### C. Plist editing
 
 | **Dev**                                 | **Download**                                         | **Details**                                  |
