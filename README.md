@@ -24,7 +24,7 @@
 | [corpnewt](https://github.com/corpnewt) | [ProperTree](https://github.com/corpnewt/ProperTree) | Cross-platform GUI `.plist` editor |
 | [ic005k](https://github.com/ic005k) | [Xplist](https://github.com/ic005k/Xplist) | Lightweight `.plist` editor with rich features |
 
-* Compatible apps / tools to compare between two or more files. (optional).
+* Compatible apps / tools to compare between two or more files (Optional).
   
 | **Dev** | **Download** | **Details** |
 |---|---|---|
