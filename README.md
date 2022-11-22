@@ -4,13 +4,13 @@
 
 #### Apps / Tools
 
-* Extensible Firmware Interface
+* Extensible Firmware Interface (EFI)
 
 | **Dev** | **Download** | **Details** |
 |---|---|---|
 | [Acidanthera](https://github.com/acidanthera) | [OpenCore Release](https://github.com/acidanthera/OpenCorePkg/releases) | Bootloader with development SDK |
   
-* OpenCore Updater
+* Updater
 
 | **Dev** | **Download** | **Details** |
 |---|---|---|
@@ -24,7 +24,7 @@
 | [corpnewt](https://github.com/corpnewt) | [ProperTree](https://github.com/corpnewt/ProperTree) | Cross-platform GUI `.plist` editor |
 | [ic005k](https://github.com/ic005k) | [Xplist](https://github.com/ic005k/Xplist) | Lightweight `.plist` editor with rich features |
 
-* Compatible apps / tool to compare between two or more files. (optional).
+* Compatible apps / tools to compare between two or more files. (optional).
   
 | **Dev** | **Download** | **Details** |
 |---|---|---|
