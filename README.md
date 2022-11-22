@@ -44,7 +44,7 @@
 
 | **Dev**                                         | **Download**                                                  | **Details**              |
 | ----------------------------------------------- | ------------------------------------------------------------- | ------------------------ |
-| [khronokernel](https://github.com/khronokernel) | [Legacy Builds](https://github.com/khronokernel/Legacy-Kexts) | Recent debug and release |
+| [khronokernel](https://github.com/khronokernel) | [Legacy Builds](https://github.com/khronokernel/Legacy-Kexts) | Legacy Kernel Extension  |
 
 #### C. Alternative
 
