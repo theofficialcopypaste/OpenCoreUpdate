@@ -8,6 +8,10 @@
 | --------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------- |
 | [Acidanthera](https://github.com/acidanthera) | [OpenCore Release](https://github.com/acidanthera/OpenCorePkg/releases) | Bootloader with development SDK |
 
+* **OpenCore**
+
+![OpenCore](https://user-images.githubusercontent.com/72515939/203320371-181058ca-3272-4ea0-a190-f11ef1ac0974.png)
+
 #### B. Updater
 
 | **Dev**                                     | **Download**                                                   | **Details**                                                                                   |
@@ -21,6 +25,11 @@
 | --------------------------------------- | ---------------------------------------------------- | -------------------------------------------- |
 | [corpnewt](https://github.com/corpnewt) | [ProperTree](https://github.com/corpnewt/ProperTree) | Cross-platform GUI .plist editor             |
 | [ic005k](https://github.com/ic005k)     | [Xplist](https://github.com/ic005k/Xplist)           | Lightweight .plist editor with rich features |
+
+
+* **Propertree**
+
+![Propertree](https://user-images.githubusercontent.com/72515939/203320853-96e6113c-83c0-4a61-95fb-39cad68a2f4e.png)
 
 > **Note**: macOS Monterey and above, [ProperTree](https://github.com/corpnewt/ProperTree) require `python-tk@3.10` via [Homebrew](https://brew.sh/). 
 
@@ -48,6 +57,10 @@ brew install python-tk@3.10
 | --------------------------------------- | -------------------------------------------- | ------------------------ |
 | [Dortania](https://dortania.github.io/) | [Builds](https://dortania.github.io/builds/) | Recent debug and release |
 
+* **Builds**
+
+![Builds](https://user-images.githubusercontent.com/72515939/203321357-3e44bd4a-56fe-4225-b386-f4212f6a7838.png)
+
 > **Note**: Most recent and updated version. 
 
 #### B. Legacy
@@ -56,6 +69,10 @@ brew install python-tk@3.10
 | ----------------------------------------------- | ------------------------------------------------------------- | ------------------------ |
 | [khronokernel](https://github.com/khronokernel) | [Legacy Builds](https://github.com/khronokernel/Legacy-Kexts) | Legacy Kernel Extension  |
 
+* **Legacy Builds**
+
+![Legacy](https://user-images.githubusercontent.com/72515939/203321674-e7b5c057-b607-430d-8b94-0aa56991e058.png)
+
 > **Note**: 32bit supported
 
 #### C. Alternative
@@ -63,6 +80,10 @@ brew install python-tk@3.10
 | **Dev**                                                 | **Download**                                                                  | **Details**  |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------ |
 | [CloverHackyColor](https://github.com/CloverHackyColor) | [Release](https://github.com/CloverHackyColor/FakeSMC3_with_plugins/releases) | FakeSMC v3   |
+
+* **FakeSMC3**
+
+![FakeSMC3](https://user-images.githubusercontent.com/72515939/203321934-3a9465e0-a598-48c0-a343-de72412b5564.png)
 
 > **Note**: An alternative SMC emulation kernel extension.
 
