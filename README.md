@@ -79,7 +79,7 @@ brew install python-tk@3.10
 
 | **Dev**                                                 | **Download**                                                                  | **Details**  |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------ |
-| [CloverHackyColor](https://github.com/CloverHackyColor) | [Release](https://github.com/CloverHackyColor/FakeSMC3_with_plugins/releases) | FakeSMC v3   |
+| [CloverHackyColor](https://github.com/CloverHackyColor) | [Release](https://github.com/CloverHackyColor/FakeSMC3_with_plugins/releases) | FakeSMC3     |
 
 * **FakeSMC3**
 
