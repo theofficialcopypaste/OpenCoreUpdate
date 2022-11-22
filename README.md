@@ -137,7 +137,7 @@ brew install python-tk@3.10
 
 #### D. AppleALC Slimmed (Specific)
 
-| **Dev**                                         | **Download**                                                           | **Details**.        |
+| **Dev**                                         | **Download**                                                           | **Details**         |
 | ----------------------------------------------- | ---------------------------------------------------------------------- | ------------------- |
 | [dreamwhite](https://github.com/dreamwhite)     | [Release](https://github.com/dreamwhite/ChonkyAppleALC-Build/releases) | Specific AppleHDA   |
 
