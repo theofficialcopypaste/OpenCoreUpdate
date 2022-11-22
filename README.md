@@ -36,7 +36,9 @@ brew install python-tk@3.10
 | [corpnewt](https://github.com/corpnewt) | [OCConfigCompare](https://github.com/corpnewt/OCConfigCompare)              | Python script to compare two .plists and list missing keys in either                              |
 | [meldmerge](https://meldmerge.org/)     | [Homebrew](https://brew.sh/) and [meld](https://formulae.brew.sh/cask/meld) | Free apps to compare files, directories, and version controlled projects                          |
 
-> **Note**: Personally, [octool](https://github.com/rusty-bits/octool) and [ProperTree](https://github.com/corpnewt/ProperTree) is enough to handle EFI update.
+* **Araxis Merge**
+
+![Araxis](https://user-images.githubusercontent.com/72515939/203319617-9db8e6f6-95a1-4266-b910-78fbb398b4bc.png)
 
 ### Kexts
 
