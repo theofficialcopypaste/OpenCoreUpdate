@@ -32,7 +32,7 @@
 | [corpnewt](https://github.com/corpnewt) | [OCConfigCompare](https://github.com/corpnewt/OCConfigCompare)  | Python script to `compare` two `.plists` and list `missing keys` in either |
 | [meldmerge](https://meldmerge.org/) | [Homebrew](https://brew.sh/) and [meld](https://formulae.brew.sh/cask/meld)  | Free apps to `compare` files, directories, and version controlled projects |
 
-> Note: Personally, [octool](https://github.com/rusty-bits/octool) and [ProperTree](https://github.com/corpnewt/ProperTree) is enough to handle EFI update.
+> **Note**: Personally, [octool](https://github.com/rusty-bits/octool) and [ProperTree](https://github.com/corpnewt/ProperTree) is enough to handle EFI update.
 
 
 ## Kexts
