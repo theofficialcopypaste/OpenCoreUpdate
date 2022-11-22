@@ -14,6 +14,7 @@
 | **Dev**                                       | **Download**                                                            | **Details**                     |
 | --------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------- |
 | [Acidanthera](https://github.com/acidanthera) | [OpenCore Release](https://github.com/acidanthera/OpenCorePkg/releases) | Bootloader with development SDK |
+| [Acidanthera](https://github.com/acidanthera) | [OpenCore Binary Data](https://github.com/acidanthera/OcBinaryData)     | Binary Data |
 
 * **OpenCore**
 
