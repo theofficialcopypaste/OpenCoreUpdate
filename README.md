@@ -1,7 +1,5 @@
 # Hackintosh: OpenCore Update
 
-## Requirement
-
 ### Apps / Tools
 
 #### Extensible Firmware Interface (EFI)
@@ -34,7 +32,7 @@
 
 > **Note**: Personally, [octool](https://github.com/rusty-bits/octool) and [ProperTree](https://github.com/corpnewt/ProperTree) is enough to handle EFI update.
 
-## Kexts
+### Kexts
 
 #### Dortania Builds
 
