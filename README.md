@@ -55,6 +55,8 @@ Navigation: arrow keys or some standard vi keys
           'down'/'j'          jump to bottom of section
 ```
 
+> **Note**: Using [octool](https://github.com/rusty-bits/octool) provide cleaner update. 
+
 ---
 
 #### C. Plist editing
