@@ -141,5 +141,5 @@ brew install python-tk@3.10
 | ----------------------------------------------- | ---------------------------------------------------------------------- | ----------- |
 | [dreamwhite](https://github.com/dreamwhite)     | [Release](https://github.com/dreamwhite/ChonkyAppleALC-Build/releases) | Specific    |
 
-> **Note**:This is specifically based on your Audio Device. Please choose wisely.
+> **Note**: This is specifically based. Choose wisely.
 
