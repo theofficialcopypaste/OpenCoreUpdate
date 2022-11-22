@@ -141,5 +141,6 @@ brew install python-tk@3.10
 | ----------------------------------------------- | ---------------------------------------------------------------------- | ----------- |
 | [dreamwhite](https://github.com/dreamwhite)     | [Release](https://github.com/dreamwhite/ChonkyAppleALC-Build/releases) | Specific    |
 
-> **Note**: This is specifically based. Choose wisely.
+![AppleALC](https://user-images.githubusercontent.com/72515939/203340882-5748e0db-1233-49b8-b45f-923c4a4e72b5.png)
 
+> **Note**: This is specifically based. Choose wisely.
