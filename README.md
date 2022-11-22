@@ -22,6 +22,12 @@
 | [corpnewt](https://github.com/corpnewt) | [ProperTree](https://github.com/corpnewt/ProperTree) | Cross-platform GUI .plist editor             |
 | [ic005k](https://github.com/ic005k)     | [Xplist](https://github.com/ic005k/Xplist)           | Lightweight .plist editor with rich features |
 
+> **Note**: macOS Monterey and above, [ProperTree](https://github.com/corpnewt/ProperTree) require `python-tk@3.10` via [Homebrew](https://brew.sh/). 
+
+```zsh
+brew install python-tk@3.10 
+```
+
 #### D. Compare (Optional).
 
 | **Dev**                                 | **Download**                                                                | **Details**                                                                                       |
@@ -40,14 +46,21 @@
 | --------------------------------------- | -------------------------------------------- | ------------------------ |
 | [Dortania](https://dortania.github.io/) | [Builds](https://dortania.github.io/builds/) | Recent debug and release |
 
+> **Note**: Most recent and updated version. 
+
 #### B. Legacy
 
 | **Dev**                                         | **Download**                                                  | **Details**              |
 | ----------------------------------------------- | ------------------------------------------------------------- | ------------------------ |
 | [khronokernel](https://github.com/khronokernel) | [Legacy Builds](https://github.com/khronokernel/Legacy-Kexts) | Legacy Kernel Extension  |
 
+> **Note**: 32bit supported
+
 #### C. Alternative
 
 | **Dev**                                                 | **Download**                                                                  | **Details**  |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------ |
 | [CloverHackyColor](https://github.com/CloverHackyColor) | [Release](https://github.com/CloverHackyColor/FakeSMC3_with_plugins/releases) | FakeSMC v3   |
+
+> **Note**: An alternative SMC emulation kernel extension.
+
