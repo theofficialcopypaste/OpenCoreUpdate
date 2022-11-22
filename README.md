@@ -33,6 +33,28 @@
 
 ![ACAT](https://user-images.githubusercontent.com/72515939/203323165-e1e06101-d545-4f19-b0c5-9c68a6db85f7.png)
 
+* **octool**
+
+```zsh
+SYNOPSIS
+	./octool [options] [-o x.y.z] [config.plist]
+OPTIONS
+	-d  build debug version
+	-h  print this help and exit
+	-o x.y.z  select OpenCore version number
+	-v  show octool version info
+```
+```zsh
+Navigation: arrow keys or some standard vi keys
+          'up'/'k'            jump to top of section
+              ^                       't'
+              |                        ^
+'left'/'h' <-- --> 'right'/'l'         |
+              |                        v
+              v                       'b'
+          'down'/'j'          jump to bottom of section
+```
+
 ---
 
 #### C. Plist editing
