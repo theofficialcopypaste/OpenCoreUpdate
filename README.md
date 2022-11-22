@@ -1,42 +1,14 @@
 # OpenCoreUpdate
 
-## Method 1:
+* Bootloader
+  * [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
+    * Bootloader with development SDK.
+      * [Release](https://github.com/acidanthera/OpenCorePkg/releases)
 
-### Using [rusty-bits](https://github.com/rusty-bits) octool
+* Update Tool
+  * Option 1 : [rusty-bits](https://github.com/rusty-bits) / [octool](https://github.com/rusty-bits/octool)
+    * An OpenCore terminal based updater build from [Rust](https://www.rust-lang.org/).
+  * Option 2 : [ic005k](https://github.com/ic005k) / [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)
+    * GUI-based Configurator for editing config.plist files for Acidanthera's OpenCore Boot Manager.
 
-A small OpenCore project from [rusty-bits](https://github.com/rusty-bits) which directly update EFI from official branch [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) repository. Why [octool](https://github.com/rusty-bits/octool)?
-
-* Light
-* Simple
-* Easy to handle
-
-#### Information
-
-Help
-
-```zsh
-./octool -h
-```
-```zsh
-SYNOPSIS
-	./octool [options] [-o x.y.z] [config.plist]
-OPTIONS
-	-d  build debug version
-	-h  print this help and exit
-	-o x.y.z  select OpenCore version number
-	-v  show octool version info
-```
-
-Editing
-
-```zsh
-Navigation: arrow keys or some standard vi keys
-          'up'/'k'            jump to top of section
-              ^                       't'
-              |                        ^
-'left'/'h' <-- --> 'right'/'l'         |
-              |                        v
-              v                       'b'
-          'down'/'j'          jump to bottom of section
-```
 
