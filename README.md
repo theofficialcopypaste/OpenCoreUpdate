@@ -1,5 +1,10 @@
 # Hackintosh: OpenCore Update
 
+**Lists**
+
+* [Apps and Tools](https://github.com/theofficialcopypaste/OpenCoreUpdate#apps--tools)
+* [Kexts](https://github.com/theofficialcopypaste/OpenCoreUpdate#kexts)
+
 ### Apps / Tools
 
 #### A. Extensible Firmware Interface (EFI)
