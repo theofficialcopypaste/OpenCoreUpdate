@@ -135,12 +135,28 @@ brew install python-tk@3.10
 
 > **Note**: An alternative SMC emulation kernel extension.
 
-#### D. AppleALC Slimmed
+#### D. Slimmed Kext
 
-| **Dev**                                         | **Download**                                                           | **Details**         |
-| ----------------------------------------------- | ---------------------------------------------------------------------- | ------------------- |
-| [dreamwhite](https://github.com/dreamwhite)     | [Release](https://github.com/dreamwhite/ChonkyAppleALC-Build/releases) | Specific AppleHDA   |
+| **Dev**                                         | **Download**                                                                         | **Details**                |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------- |
+| [dreamwhite](https://github.com/dreamwhite)     | [Release](https://github.com/dreamwhite/ChonkyAppleALC-Build/releases)               | Specific AppleHDA   |
+| [dreamwhite](https://github.com/dreamwhite)     | [Release](https://github.com/dreamwhite/ChonkyIntelBluetoothFirmware-Build/releases) | Specific ITLWM |
 
 ![AppleALC](https://user-images.githubusercontent.com/72515939/203340882-5748e0db-1233-49b8-b45f-923c4a4e72b5.png)
 
-> **Note**: This is specifically based `AppleALC.kext`. Choose wisely.
+> **Note**: Dreamwhite's auto-generated list of AppleALC layout IDs available per each codec and auto-generated list of IntelBluetoothFirmware.kext available.
+
+
+### SSDT
+
+#### A. SSDTTime
+
+| **Dev**                                 | **Download**                                   | **Details**        |
+| --------------------------------------- | ---------------------------------------------- | ------------------ |
+| [corpnewt](https://github.com/corpnewt) | [Builds](https://github.com/corpnewt/SSDTTime) | SSDT/DSDT hotpatch |
+
+#### B. Guide
+
+| **Dev**                                 | **Download**                                             | **Details**        |
+| --------------------------------------- | -------------------------------------------------------- | ------------------ |
+| [5T33Z0](https://github.com/5T33Z0)     | [Builds](https://github.com/5T33Z0/OC-Little-Translated) | SSDT/DSDT hotpatch |
