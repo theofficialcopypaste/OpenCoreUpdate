@@ -118,8 +118,6 @@ brew install python-tk@3.10
 
 * **Legacy Builds**
 
-![Legacy](https://user-images.githubusercontent.com/72515939/203321674-e7b5c057-b607-430d-8b94-0aa56991e058.png)
-
 > **Note**: 32bit supported
 
 ---
@@ -131,8 +129,6 @@ brew install python-tk@3.10
 | [CloverHackyColor](https://github.com/CloverHackyColor) | [Release](https://github.com/CloverHackyColor/FakeSMC3_with_plugins/releases) | FakeSMC3     |
 
 * **FakeSMC3**
-
-![FakeSMC3](https://user-images.githubusercontent.com/72515939/203321934-3a9465e0-a598-48c0-a343-de72412b5564.png)
 
 > **Note**: An alternative SMC emulation kernel extension.
 
