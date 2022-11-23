@@ -152,12 +152,12 @@ brew install python-tk@3.10
 
 #### A. SSDTTime
 
-| **Dev**                                 | **Download**                                   | **Details**        |
-| --------------------------------------- | ---------------------------------------------- | ------------------ |
-| [corpnewt](https://github.com/corpnewt) | [Builds](https://github.com/corpnewt/SSDTTime) | SSDT/DSDT hotpatch |
+| **Dev**                                 | **Download**                                 v                               | **Details**        |
+| --------------------------------------- | ---------------------------------------------------------------------------- | ------------------ |
+| [corpnewt](https://github.com/corpnewt) | [Builds](https://github.com/corpnewt/SSDTTime/archive/refs/heads/master.zip) | SSDT/DSDT hotpatch |
 
 #### B. Guide
 
-| **User**                                | **Download**                                             | **Details**        |
+| **User**                                | **  Link  **                                             | **Details**        |
 | --------------------------------------- | -------------------------------------------------------- | ------------------ |
 | [5T33Z0](https://github.com/5T33Z0)     | [Builds](https://github.com/5T33Z0/OC-Little-Translated) | SSDT/DSDT hotpatch |
