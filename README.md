@@ -110,29 +110,39 @@ brew install python-tk@3.10
 
 ---
 
-#### B. Legacy
+#### B. Kext Updater
+
+| **Dev**                                            | **Download**                                                            | **Details**       |
+| -------------------------------------------------- | ----------------------------------------------------------------------- | ----------------- |
+| [SL-Soft](https://www.sl-soft.de/en/kext-updater/) | [Release](https://update.kextupdater.de/kextupdater/Kext%20Updater.zip) | Kext Updater      |
+
+![KextUpdater](https://user-images.githubusercontent.com/72515939/203808504-079c00b3-12fc-4809-9071-d5a7928d7916.png)
+
+> **Note**: A small project on Hackintosh-Forum.de for pure version checking, the Kext Updater now offers an extensive range of functions that go beyond simply updating Kext´s.
+
+---
+
+#### C. Legacy
 
 | **Dev**                                         | **Download**                                                  | **Details**              |
 | ----------------------------------------------- | ------------------------------------------------------------- | ------------------------ |
 | [khronokernel](https://github.com/khronokernel) | [Legacy Builds](https://github.com/khronokernel/Legacy-Kexts) | Legacy Kernel Extension  |
 
-* **Legacy Builds**
-
 > **Note**: 32bit supported
 
 ---
 
-#### C. Alternative
+#### D. Alternative
 
 | **Dev**                                                 | **Download**                                                                  | **Details**  |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------ |
 | [CloverHackyColor](https://github.com/CloverHackyColor) | [Release](https://github.com/CloverHackyColor/FakeSMC3_with_plugins/releases) | FakeSMC3     |
 
-* **FakeSMC3**
-
 > **Note**: An alternative SMC emulation kernel extension.
 
-#### D. Slimmed Kext
+---
+
+#### E. Slimmed Kext
 
 | **Dev**                                         | **Download**                                                                         | **Details**                |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------- |
@@ -143,6 +153,7 @@ brew install python-tk@3.10
 
 > **Note**: Dreamwhite's auto-generated list of AppleALC layout IDs available per each codec and auto-generated list of IntelBluetoothFirmware.kext available.
 
+---
 
 ### SSDT
 
@@ -151,6 +162,8 @@ brew install python-tk@3.10
 | **Dev**                                 | **Download**                                                                 | **Details**        |
 | --------------------------------------- | ---------------------------------------------------------------------------- | ------------------ |
 | [corpnewt](https://github.com/corpnewt) | [Builds](https://github.com/corpnewt/SSDTTime/archive/refs/heads/master.zip) | SSDT/DSDT hotpatch |
+
+---
 
 #### B. Guide
 
