@@ -118,7 +118,7 @@ brew install python-tk@3.10
 
 ![KextUpdater](https://user-images.githubusercontent.com/72515939/203808504-079c00b3-12fc-4809-9071-d5a7928d7916.png)
 
-> **Note**: A small project on Hackintosh-Forum.de for pure version checking, the Kext Updater now offers an extensive range of functions that go beyond simply updating Kext´s.
+> **Note**: A small project on [Hackintosh-Forum.de](https://www.hackintosh-forum.de/) for pure version checking, the Kext Updater now offers an extensive range of functions that go beyond simply updating Kext´s.
 
 ---
 
