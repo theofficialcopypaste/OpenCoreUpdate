@@ -157,3 +157,4 @@ brew install python-tk@3.10
 | **User**                                | **Link**                                                 | **Details**        |
 | --------------------------------------- | -------------------------------------------------------- | ------------------ |
 | [5T33Z0](https://github.com/5T33Z0)     | [Builds](https://github.com/5T33Z0/OC-Little-Translated) | SSDT/DSDT hotpatch |
+| [CopyPaste](https://github.com/theofficialcopypaste) | [Samples](https://github.com/theofficialcopypaste/OpenCoreUpdate/tree/main/SSDT-Modular%20Sample) | SSDT Samples |
