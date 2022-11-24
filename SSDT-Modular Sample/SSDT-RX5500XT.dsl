@@ -20,7 +20,7 @@ DefinitionBlock ("", "SSDT", 2, "CpyPst", "Radeon", 0x00000001)
 							Return (0x0F)
 						}
 
-						Device (GFX0)    //    Dedicated Grapic Processor Unit
+						Device (GFX0)    //    Dedicated Graphic Processor Unit
 						{
 							Name (_ADR, Zero)  // _ADR: Address
 							Name (_SUN, One)  // _SUN: Slot User Number
