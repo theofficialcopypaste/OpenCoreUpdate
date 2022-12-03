@@ -176,11 +176,12 @@ brew install python-tk@3.10
 
 ### Recovery
 
-#### A.	gibMacRecovery
+#### A.	gibMacRecovery (Latest)
 
 | **Dev**                                 | **Download**                                           | **Details**        |
 | --------------------------------------- | ------------------------------------------------------ | ------------------ |
 | [corpnewt](https://github.com/corpnewt) | [Recovery](https://github.com/corpnewt/gibMacRecovery) | SSDT/DSDT hotpatch |
 
+![Screenshot_20221204_045817](https://user-images.githubusercontent.com/72515939/205461855-9ceb4e2c-a759-4a53-a7c0-2587a0b2bed9.png)
 
 
