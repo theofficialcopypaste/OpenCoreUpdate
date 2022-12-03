@@ -5,6 +5,7 @@
 * [Apps and Tools](https://github.com/theofficialcopypaste/OpenCoreUpdate#apps--tools)
 * [Kexts](https://github.com/theofficialcopypaste/OpenCoreUpdate#kexts)
 * [SSDT](https://github.com/theofficialcopypaste/OpenCoreUpdate/blob/main/README.md#ssdt)
+* [Recovery](https://github.com/theofficialcopypaste/OpenCoreUpdate#recovery)
 
 ---
 
