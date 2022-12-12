@@ -1,6 +1,12 @@
 # Hackintosh: OpenCore Update
 
-**Lists**
+![OpenCore](https://img.shields.io/badge/Bootloader-OpenCore-purple)
+![OS](https://img.shields.io/badge/OS-macOS-orange)
+![Check](https://img.shields.io/badge/Status-Pass-brightgreen)
+![GitHub issues](https://img.shields.io/github/issues/theofficialcopypaste/ASRockB460MSL-OC?color=blue&label=Issues)
+![Information](https://img.shields.io/badge/Information-Tools-yellow)
+
+**Table of Contents**
 
 [Apps and Tools](https://github.com/theofficialcopypaste/OpenCoreUpdate#apps--tools) | [Kexts](https://github.com/theofficialcopypaste/OpenCoreUpdate#kexts) | [SSDT](https://github.com/theofficialcopypaste/OpenCoreUpdate/blob/main/README.md#ssdt) | [Recovery](https://github.com/theofficialcopypaste/OpenCoreUpdate#recovery)
 
@@ -54,6 +60,8 @@ Navigation: arrow keys or some standard vi keys
           'down'/'j'          jump to bottom of section
 ```
 
+![octool](https://user-images.githubusercontent.com/72515939/206939537-57a9147b-8a10-4c15-9f83-560da20ba144.png)
+
 > **Note**: Using [octool](https://github.com/rusty-bits/octool) provide cleaner update. 
 
 ---
@@ -68,7 +76,7 @@ Navigation: arrow keys or some standard vi keys
 
 * **Propertree**
 
-![Propertree](https://user-images.githubusercontent.com/72515939/203320853-96e6113c-83c0-4a61-95fb-39cad68a2f4e.png)
+![PythonPropertree](https://user-images.githubusercontent.com/72515939/206940229-e8acaf52-f90f-41a9-bc28-1d1074f6e5e2.png)
 
 > **Note**: macOS Monterey and above, [ProperTree](https://github.com/corpnewt/ProperTree) require `python-tk@3.10` via [Homebrew](https://brew.sh/). 
 
@@ -114,6 +122,8 @@ brew install python-tk@3.10
 | -------------------------------------------------- | ----------------------------------------------------------------------- | ----------------- |
 | [SL-Soft](https://www.sl-soft.de/en/kext-updater/) | [Release](https://update.kextupdater.de/kextupdater/Kext%20Updater.zip) | Kext Updater      |
 
+* **KextUpdater**
+
 ![KextUpdater](https://user-images.githubusercontent.com/72515939/203808504-079c00b3-12fc-4809-9071-d5a7928d7916.png)
 
 > **Note**: A small project on [Hackintosh-Forum.de](https://www.hackintosh-forum.de/) for pure version checking, the Kext Updater now offers an extensive range of functions that go beyond simply updating Kext´s.
@@ -147,7 +157,11 @@ brew install python-tk@3.10
 | [dreamwhite](https://github.com/dreamwhite)     | [Release](https://github.com/dreamwhite/ChonkyAppleALC-Build/releases)               | Specific AppleHDA   |
 | [dreamwhite](https://github.com/dreamwhite)     | [Release](https://github.com/dreamwhite/ChonkyIntelBluetoothFirmware-Build/releases) | Specific ITLWM |
 
-![AppleALC](https://user-images.githubusercontent.com/72515939/203340882-5748e0db-1233-49b8-b45f-923c4a4e72b5.png)
+* **AppleALC**
+
+![Audio](https://user-images.githubusercontent.com/72515939/206940074-60454223-093e-4086-b968-7a8fa1bc7c74.png)
+
+![Audio2](https://user-images.githubusercontent.com/72515939/206940081-bf2b6b45-75a9-4db4-b172-6c1f9d3e024c.png)
 
 > **Note**: Dreamwhite's auto-generated list of AppleALC layout IDs available per each codec and auto-generated list of IntelBluetoothFirmware.kext available.
 
@@ -161,6 +175,10 @@ brew install python-tk@3.10
 | --------------------------------------- | ---------------------------------------------------------------------------- | ------------------ |
 | [corpnewt](https://github.com/corpnewt) | [Builds](https://github.com/corpnewt/SSDTTime/archive/refs/heads/master.zip) | SSDT/DSDT hotpatch |
 
+* **SSDTTime**
+
+![SSDTTime](https://user-images.githubusercontent.com/72515939/206939689-a5675d65-2a2c-4f52-9494-b61688af5b4b.png)
+
 ---
 
 #### B. Guide
@@ -170,6 +188,7 @@ brew install python-tk@3.10
 | [5T33Z0](https://github.com/5T33Z0)     | [Builds](https://github.com/5T33Z0/OC-Little-Translated) | SSDT/DSDT hotpatch |
 | [CopyPaste](https://github.com/theofficialcopypaste) | [Samples](https://github.com/theofficialcopypaste/OpenCoreUpdate/tree/main/SSDT-Modular%20Sample) | SSDT Samples |
 
+---
 
 ### Recovery
 
@@ -180,6 +199,10 @@ brew install python-tk@3.10
 | [corpnewt](https://github.com/corpnewt) | [gibMacRecovery](https://github.com/corpnewt/gibMacRecovery) | Linux, Mac, Windows (Standalone)|
 | [corpnewt](https://github.com/corpnewt) | [gibMacOS](https://github.com/corpnewt/gibMacOS)             | Linux, Mac, Windows (under OpenCorePkg / Utilities / macrecovery |
 
-![Screenshot_20221204_045817](https://user-images.githubusercontent.com/72515939/205461855-9ceb4e2c-a759-4a53-a7c0-2587a0b2bed9.png)
+* **gibMacRecovery**
 
+![gibMacRecovery](https://user-images.githubusercontent.com/72515939/206939876-366ef688-c5c5-4348-a7f5-6e977ec6dbf1.png)
 
+* **gibMacOS**
+
+![gibMacOS](https://user-images.githubusercontent.com/72515939/206939805-df91a8df-e333-4ebe-bd8d-1c9345b138c7.png)
